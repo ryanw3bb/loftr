@@ -1,2 +1,2 @@
 # loftr
-C++ mesh lofting engine 
+C# mesh lofting engine 
